@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on CTF &amp; InfoSec Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on CTF &amp; InfoSec Blog</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>vi</language>
+    <lastBuildDate>Sun, 08 Mar 2026 14:41:25 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glory of the Garden</title>
+      <link>http://localhost:1313/posts/picoctf-glory-of-the-garden/</link>
+      <pubDate>Sun, 08 Mar 2026 14:41:25 +0700</pubDate>
+      <guid>http://localhost:1313/posts/picoctf-glory-of-the-garden/</guid>
+      <description>&lt;p&gt;Đây là một bài Forensics khá thú vị được đánh giá mức độ Dễ trên picoCTF, rất phù hợp với những ai mới bắt đầu.&lt;/p&gt;
+&lt;h2 id=&#34;ta-mở-thử-thách-lên-và-có-đề-bài-như-sau&#34;&gt;Ta mở thử thách lên và có đề bài như sau:&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Ảnh chụp terminal chạy lệnh strings&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/gloryofthegarden&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;đề-bài-gợi-ý-về-một-trình-chỉnh-sửa-hex-ta-nghĩ-ngay-tới-hexedit&#34;&gt;Đề bài gợi ý về một &amp;ldquo;Trình chỉnh sửa hex&amp;rdquo;, ta nghĩ ngay tới Hexed.it&lt;/h3&gt;
+&lt;h4 id=&#34;chi-tiết-bước-giải&#34;&gt;Chi tiết bước giải:&lt;/h4&gt;
+&lt;h5 id=&#34;bước-1-tải-ảnh-đề-bài-cung-cấp-tải-file-đề-bài-gardenjpg--mở-trình-duyệt-internet-gõ-hexedit-trên-thanh-tìm-kiếm-và-truy-cập-vào&#34;&gt;Bước 1: Tải ảnh đề bài cung cấp &lt;a href=&#34;http://localhost:1313/files/garden.jpg&#34;&gt;Tải file đề bài: garden.jpg&lt;/a&gt; , mở trình duyệt Internet, gõ &lt;code&gt;Hexed.it&lt;/code&gt; trên thanh tìm kiếm và truy cập vào.&lt;/h5&gt;
+&lt;h5 id=&#34;bước-2-nhấn-vào-mở-tệp-rồi-chọn-vào-file-ảnh-đề-bài-cung-cấp&#34;&gt;Bước 2: Nhấn vào &amp;ldquo;Mở tệp&amp;rdquo; rồi chọn vào file ảnh đề bài cung cấp.&lt;/h5&gt;
+&lt;h5 id=&#34;bước-3-nhấn-vào-ô-tìm-kiếm-gõ-pico-rồi-nhấn-enter--sau-đó-ta-sẽ-thấy-flag-sẽ-hiện-ra-ở-cột-bên-phải&#34;&gt;Bước 3: Nhấn vào ô &amp;ldquo;Tìm kiếm&amp;rdquo;, gõ &amp;ldquo;pico&amp;rdquo; rồi nhấn Enter , sau đó ta sẽ thấy flag sẽ hiện ra ở cột bên phải&lt;/h5&gt;
+&lt;p&gt;&lt;img alt=&#34;Ảnh chụp terminal chạy lệnh strings&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/flaggarden&#34;&gt;
+&lt;strong&gt;Flag:&lt;/strong&gt; &lt;code&gt;picoCTF{more_than_m33ts_the_3y395e12915}&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

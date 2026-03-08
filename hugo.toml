@@ -1,0 +1,7 @@
+baseURL = 'https://phuongvancanh.github.io/'
+languageCode = 'vi'
+title = 'CTF & InfoSec Blog'
+theme = "PaperMod"
+
+[params]
+author = "Phương Văn Cảnh"
