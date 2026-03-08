@@ -5,3 +5,4 @@ theme = "PaperMod"
 
 [params]
 author = "Phương Văn Cảnh"
+comments = true
